@@ -127,6 +127,7 @@ click **Continue**
 
 **Create user**
  **Name**
+ 
 	 Your name
 **Server name**
 
